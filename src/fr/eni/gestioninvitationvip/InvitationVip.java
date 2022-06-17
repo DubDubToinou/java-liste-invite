@@ -97,7 +97,7 @@ public class InvitationVip {
 		}
 
 	}
-
+	
 	// Fonction affichage de la liste des invités.
 	public static void affichageInvite() {
 
